@@ -1,5 +1,5 @@
 
-# Quarantine Discord Bot
+# Quarantinzeo NextGen Automods 
 
 A Discord bot that allows moderators to temporarily quarantine users by restricting their ability to send messages and join voice channels.
 
