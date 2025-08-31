@@ -5,10 +5,10 @@ A Discord bot that allows moderators to temporarily quarantine users by restrict
 
 ## Features
 
-- `/quarantine` - Put a user in quarantine with optional reason and duration
-- `/unquarantine` - Remove a user from quarantine
-- `/quarantine-list` - List all currently quarantined users
-- `/quarantine-status` - Check quarantine status of a user
+- `quarantine` - Put a user in quarantine with optional reason and duration
+- `unquarantine` - Remove a user from quarantine
+- `quarantine-list` - List all currently quarantined users
+- `quarantine-status` - Check quarantine status of a user
 
 ## Setup
 
@@ -42,3 +42,7 @@ A Discord bot that allows moderators to temporarily quarantine users by restrict
 - `/quarantine-status [@user]` (check status)
 
 Default quarantine duration is 60 minutes if not specified.
+
+# Note : 
+
+Bot is set to onky working in discord.gg//scriptspace where all the commands are used as Test commands onwer restricted commands only can be accessed by script.agi 
